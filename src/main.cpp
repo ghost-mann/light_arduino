@@ -2,11 +2,11 @@
 #include "rgb.h"
 
 void setup() {
-  init_rgb();
+  init_rgb_button();
 }
 
 void loop() {
-  loop_rgb();
+  loop_rgb_button();
 
 }
 
